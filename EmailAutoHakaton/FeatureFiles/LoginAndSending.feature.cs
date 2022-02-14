@@ -28,7 +28,7 @@ namespace EmailAutoHakaton.FeatureFiles
         
         private Xunit.Abstractions.ITestOutputHelper _testOutputHelper;
         
-#line 1 "SpecFlowFeature1.feature"
+#line 1 "LoginAndSending.feature"
 #line hidden
         
         public AuthorizationAndSendingTheLetterFeature(AuthorizationAndSendingTheLetterFeature.FixtureData fixtureData, EmailAutoHakaton_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
